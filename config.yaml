@@ -1,17 +1,17 @@
 # Personal Information
 user:
-  name: "Luoshen"
+  name: "xon"
   title: "Software Engineer"
   location: "San Jose, CA"
-  email: "luorivergoddess@gmail.com"
+  email: "Xylonstar@outlook.com"
   bio: "A passionate software engineer dedicated to crafting elegant solutions through code"
 
 # Social Media Links
 social:
-  github: "https://github.com/luorivergoddess"
-  linkedin: "https://linkedin.com/in/yourusername"
-  twitter: "https://twitter.com/luorivergoddess"
-  instagram: "https://instagram.com/yourusername"
+  github: "https://github.com/xon"
+  linkedin: "https://linkedin.com/in/xon"
+  twitter: "https://twitter.com/xon"
+  instagram: "https://instagram.com/xon"
 
 # Featured Projects
 projects:
@@ -19,7 +19,7 @@ projects:
     description: "An intelligent conversational AI platform built with Next.js and OpenAI API, featuring real-time responses and conversation history."
     tags: ["Next.js", "OpenAI", "TypeScript", "Tailwind CSS"]
     image: "/projects/chatbot.png"
-    github: "https://github.com/yourusername/ai-chatbot"
+    github: "https://github.com/xon/ai-chatbot"
     demo: "https://demo-url.com/chatbot"
     featured: true
 
@@ -27,7 +27,7 @@ projects:
     description: "A comprehensive dashboard for managing online store operations, featuring real-time analytics and inventory management."
     tags: ["React", "Node.js", "MongoDB", "Docker"]
     image: "/projects/dashboard.png"
-    github: "https://github.com/yourusername/ecommerce-dashboard"
+    github: "https://github.com/xon/ecommerce-dashboard"
     demo: "https://demo-url.com/dashboard"
     featured: true
 
@@ -35,7 +35,7 @@ projects:
     description: "A collaborative task management solution with real-time updates, drag-and-drop functionality, and team collaboration features."
     tags: ["React", "Firebase", "Material-UI", "TypeScript"]
     image: "/projects/taskmanager.png"
-    github: "https://github.com/yourusername/task-manager"
+    github: "https://github.com/xon/task-manager"
     demo: "https://demo-url.com/tasks"
     featured: true
 
@@ -150,7 +150,7 @@ site:
   text: "#FFFFFF"
   
   meta:
-    title: "Luoshen - Portfolio"
+    title: "Xon - Portfolio"
     description: "Welcome to my personal portfolio showcasing my work and skills in software development"
     keywords: "software engineer, web developer, full-stack developer, react developer"
     ogImage: "/og-image.png"
